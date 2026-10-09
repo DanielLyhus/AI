@@ -27,7 +27,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/DanielLyhus/AI](https://github.com/DanielLyhus/AI.git)
+    git clone [https://github.com/DanielLyhus/AI]https://github.com/DanielLyhus/AI)
     ```
 
 2.  **Open the project in Epic Games Launcher:**
@@ -92,7 +92,7 @@ This repository uses the following branches:
 
 Daniel H. Lyhus - [daniellyhus@gmail.com]
 
-Project Link: [https://github.com/your-username/your-repository](https://github.com/your-username/your-repository)
+Project Link: [https://github.com/DanielLyhus/AI)
 
 ---
 
